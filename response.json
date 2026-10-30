@@ -1,0 +1,10 @@
+{
+  "risk_score": 0.032,
+  "risk_level": "HIGH",
+  "recommended_action": "BLOCK",
+  "explanations": [
+    "Late night transaction window (1 AM - 5 AM)",
+    "Receiver VPA created less than 72 hours ago",
+    "High-value transfer to unverified new VPA"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "raw_payload": "upi://pay?pa=9592149790@fam",
+  "payload_type": "UPI_INTENT",
+  "url_warnings": [],
+  "extracted_params": {
+    "pa": "9592149790@fam"
+  }
+}
